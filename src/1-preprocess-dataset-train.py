@@ -3,7 +3,7 @@ import pandas as pd
 import sklearn.metrics as metrics
 import os
 
-
+# bug fix
 class preprocess_data:
     _output_path = ""
     _correlation_cutoff = 0.70
